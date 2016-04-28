@@ -23,7 +23,7 @@
     "sails": "~0.11.3",
     "sails-disk": "~0.10.0",
     "sails-disk": "~0.10.0",
-    "sails-mongo": "0.11.4",
+    "sails-mongo": "*",
     "cloudinary": "1.2.5",
     "underscore": "1.8.3"
   },
