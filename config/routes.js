@@ -43,6 +43,9 @@ module.exports.routes = {
   },
   '/product-mod': {
     view: 'product'
+  },
+  '/pos': {
+    view: 'pos'
   }
 
 
